@@ -1,0 +1,6 @@
+{
+  "name": "GridSathi",
+  "description": "BESCOM outage response and customer power status prototype for Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
